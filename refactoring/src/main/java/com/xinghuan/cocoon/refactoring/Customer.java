@@ -1,4 +1,4 @@
-package com.schening.cocoon.refactoring;
+package com.xinghuan.cocoon.refactoring;
 
 import java.util.Vector;
 

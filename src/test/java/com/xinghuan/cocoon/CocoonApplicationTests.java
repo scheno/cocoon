@@ -1,4 +1,4 @@
-package com.schening.cocoon;
+package com.xinghuan.cocoon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.schening.cocoon;
+package com.xinghuan.cocoon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
